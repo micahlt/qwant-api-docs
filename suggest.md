@@ -1,3 +1,3 @@
-## `GET /search`
+## `GET /suggest`
 
 ### content coming soon
