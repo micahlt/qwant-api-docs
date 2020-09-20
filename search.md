@@ -10,7 +10,7 @@ You can search `web`, `images`, `news`, `social`, `videos`, or `music`.
 
 |                     | **count**                  | **q**        | **t**        | **f**                         | **offset**  | **locale**                | **uiv** |
 |---------------------|----------------------------|--------------|--------------|-------------------------------|-------------|---------------------------|---------|
-| **Accepted values** | any integer greater than 0 | search query | search query | _offset_, _locale_, and _uiv_ | any integer | see [locales](locales.md) | ?       |
+| **Accepted values** | any integer greater than 0 | search query | search terms | _offset_, _locale_, and _uiv_ | any integer | see [locales](locales.md) | 4       |
 
 Example request URL: 
 
